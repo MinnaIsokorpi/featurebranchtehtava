@@ -1,5 +1,12 @@
-# Otsikko
+# README ryhmätyölle
 
-## Toinen otsikko
+## Minna muokkaa tätä etusivua
 
-tekstiä tekstiä
+Laitetaan tähän lista syksyn kursseista:
+
+- Basics of Web
+- Ohjelmoinnin perusteet
+- Relaatiotietokannat
+- Tietorakenteet ja algoritmit
+- AWS-palvelut
+- Ohjelmistotehistyksen työvälineet
